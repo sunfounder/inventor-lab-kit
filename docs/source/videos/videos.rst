@@ -27,7 +27,6 @@ They are designed to help beginners quickly understand how Arduino works and how
     video18_function
     video19_libraries
     video20_class
-    video21_debounce
     video23_joystick
     video24_interrupt
     video26_receiver
