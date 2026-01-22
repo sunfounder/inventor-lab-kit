@@ -21,16 +21,17 @@ Inventor Lab Kit with Original Arduino Uno R3
     :width: 800
     :align: center
 
- .. note::
-     This document is available in the following languages.
-
-         * |link_german_tutorials|
-         * |link_jp_tutorials|
-         * |link_en_tutorials|
+.. note::
     
-     Please click on the respective links to access the document in your preferred language.
+    このドキュメントは、以下の言語で提供されています。
 
-* :download:`Inventor Lab Kit Handbook with the Answers </_static/pdf/Inventor Lab Kit Handbook with the Answers.pdf>`
+        * |link_german_tutorials|
+        * |link_jp_tutorials|
+        * |link_en_tutorials|
+
+    ご希望の言語のリンクをクリックして、ドキュメントにアクセスしてください。
+
+* :download:`回答付き Inventor Lab Kit ハンドブック </_static/pdf/Inventor Lab Kit Handbook with the Answers.pdf>`
 
 インベンターラボキットを使って、エレクトロニクスの旅を始めましょう。このキットは、学習者やエンスージアスト向けに設計されており、Arduino Uno R3を中心に、LEDやブザーといった基本的なコンポーネントから、RFIDシステムや超音波センサーといった高度なモジュール、さらに回路解析用のミニマルチメーターまでが含まれています。
 
@@ -38,46 +39,13 @@ Inventor Lab Kit with Original Arduino Uno R3
 
 初心者からスキルアップを目指す方まで、インベンターラボキットは学習を手軽に楽しくし、エレクトロニクスの世界で探求し、革新するために必要なすべてのツールを提供します。
 
-
-
 .. toctree::
     :maxdepth: 1
 
     About this Kit <self>
-    1_get_started
-    2_first_circuit
-    3_multimeter
-    4_ohm's_law
-    5_parallel_series_circuit
-    6_blink_led
-    7_traffic_light_auto 
-    8_traffic_light_button 
-    9_desk_lamp 
-    10_morse_code
-    11_rainbow_color
-    12_siren
-    13_joystick_led_navigator
-    14_play_dinosaur_game
-    15_cool_warm_color
-    16_summer_fan
-    17_i2c_lcd1602
-    18_on_off_desk_lamp
-    19_smart trashcan
-    20_automatic_soap_dispenser
-    21_thermistor
-    22_ir_receiver
-    23_little_star
-    24_beep_timer
-    25_reversing_alarm
-    26_cyber_dice
-    27_flowing_light
-    28_show_number
-    29_plant_monitor
-    30_radar 
-    31_guess_number 
-    32_stopwatch 
-    33_rfid_module 
-    34_access_control_system
+    lessons/lessons
+    videos/videos
+    faq
 
 
 **著作権について**
