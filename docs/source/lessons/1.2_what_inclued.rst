@@ -12,6 +12,8 @@
 
     👉 Bereit, mit uns zu entdecken und zu kreieren? Klicken Sie auf [|link_sf_facebook|] und treten Sie noch heute bei!
 
+.. _include_in_kit:
+
 1.2 Was ist in Ihrem Kit enthalten
 ========================================
 

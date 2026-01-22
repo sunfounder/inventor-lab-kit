@@ -12,6 +12,8 @@
 
     👉 Bereit, mit uns zu entdecken und zu kreieren? Klicken Sie auf [|link_sf_facebook|] und treten Sie noch heute bei!
 
+.. _first_sketch:
+
 1.6 Ihr erstes Sketch
 ===============================
 
