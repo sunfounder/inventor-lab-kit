@@ -27,7 +27,7 @@ Diese Lektion erklärt, wie Funktionen in Arduino-Sketches definiert und verwend
 
     <iframe width="100%" 
         style="aspect-ratio: 16/9; max-width: 100%;"
-        src="https://www.youtube.com/embed/https://www.youtube.com/embed/RKk42mG7ATU" 
+        src="https://www.youtube.com/embed/RKk42mG7ATU" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

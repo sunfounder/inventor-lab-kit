@@ -27,7 +27,7 @@ Diese Lektion führt PIR-Sensoren ein und erklärt ihr Verhalten bei der Bewegun
 
     <iframe width="100%" 
         style="aspect-ratio: 16/9; max-width: 100%;"
-        src="https://www.youtube.com/embed/https://www.youtube.com/embed/hNmacZoweqY" 
+        src="https://www.youtube.com/embed/hNmacZoweqY" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

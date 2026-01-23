@@ -27,7 +27,7 @@ Diese Lektion führt Hardware-Interrupts und deren Funktionsweise ein.
 
     <iframe width="100%" 
         style="aspect-ratio: 16/9; max-width: 100%;"
-        src="https://www.youtube.com/embed/https://www.youtube.com/embed/C4TKgULwpg8" 
+        src="https://www.youtube.com/embed/C4TKgULwpg8" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

@@ -27,7 +27,7 @@ Diese Lektion führt Arrays ein und zeigt, wie sie zum Speichern mehrerer Werte 
 
     <iframe width="100%" 
         style="aspect-ratio: 16/9; max-width: 100%;"
-        src="https://www.youtube.com/embed/https://www.youtube.com/embed/wE_nFYmPtas" 
+        src="https://www.youtube.com/embed/wE_nFYmPtas" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
