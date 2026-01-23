@@ -25,4 +25,11 @@ Diese Lektion führt grundlegende Konzepte der objektorientierten Programmierung
 
 .. raw:: html
 
-    <iframe width="700" height="400" src="https://www.youtube.com/embed/zp23Oqd2D5g" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" 
+        style="aspect-ratio: 16/9; max-width: 100%;"
+        src="https://www.youtube.com/embed/https://www.youtube.com/embed/zp23Oqd2D5g" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
